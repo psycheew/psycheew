@@ -1,6 +1,6 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=psychewooo&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=psycheew&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/psychewooo"
+  src="https://render.gitanimals.org/farms/psycheew"
   width="600"
   height="300"
 />
